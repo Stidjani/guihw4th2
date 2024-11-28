@@ -1,0 +1,19 @@
+/*Shakib Tidjani - 11/27/24*/
+table {   
+    width: 100%;  
+}  
+      
+th, td {  
+border: 1px solid black;  
+text-align: left;  
+}
+
+#sliders {
+    width: 100%;
+    display: flex;
+}
+#sliders div{
+    flex: 1;
+    max-width: 194.4px;
+    margin-right: 10px;
+}
